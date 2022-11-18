@@ -1,0 +1,54 @@
+#container-A{
+    width: 800px;
+    height: 800px;
+    background-color: beige;
+}
+#container-B{
+    display: flex;
+    width: 800px;
+    height: 235px;
+    background-color:beige ;
+    border-color: black;
+    
+    
+}
+#container-C{
+    width: 795px;
+    height: 480px;
+    background-color:#4040fb;
+    color:black ;
+}
+.cajaEnB{
+    border: 5px solid;
+    height: 235px;
+}
+#Foto{
+    width: 180px;
+}
+   
+#Datos{
+    width: 300px;
+    color: #4040fb;
+    border-color: black;
+    
+}
+#Habilidades{
+    width: 300px;
+    text-align: justify;
+    color: #4040fb;
+    border-color: black;
+   
+}
+.cajaEnC{
+    border: 5px solid; 
+    
+   
+}
+#Certificaciones{
+    width: 790px;
+}
+#Experiencia-Laboral{
+    width: 790px;
+    height: 300px;
+
+}
